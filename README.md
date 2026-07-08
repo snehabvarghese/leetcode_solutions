@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
