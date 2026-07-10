@@ -18,12 +18,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0062-unique-paths) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
