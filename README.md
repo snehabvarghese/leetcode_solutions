@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0065-valid-number) |
 | [0076-minimum-window-substring](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0076-minimum-window-substring) |
@@ -42,12 +43,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0064-minimum-path-sum) |
