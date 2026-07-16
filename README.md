@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0139-word-break) |
 | [0647-palindromic-substrings](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0647-palindromic-substrings) |
+| [1143-longest-common-subsequence](https://github.com/snehabvarghese/leetcode_solutions/tree/master/1143-longest-common-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0647-palindromic-substrings](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [1143-longest-common-subsequence](https://github.com/snehabvarghese/leetcode_solutions/tree/master/1143-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
