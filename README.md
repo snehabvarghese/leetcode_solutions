@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0525-contiguous-array) |
 | [0746-min-cost-climbing-stairs](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0139-word-break) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
