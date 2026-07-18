@@ -1,20 +1,14 @@
 class Solution:
     def findTargetSumWays(self, nums, target):
-
-        dp = {}
-
-        def solve(i, total):
-
-            if i == len(nums):
-                return 1 if total == target else 0
-
-            if (i, total) in dp:
-                return dp[(i, total)]
-
-            plus = solve(i + 1, total + nums[i])
-            minus = solve(i + 1, total - nums[i])
-
-            dp[(i, total)] = plus + minus
-            return dp[(i, total)]
-
-        return solve(0, 0)
+        memo={}
+        def dp(i,n):
+            if i==len(nums):
+                return 1 if n==target else  0
+            if (i,n) in memo:
+                return memo[(i,n)]
+            memo[(i,n)]= dp(i+1,n+nums[i])+dp(i+1,n-nums[i])
+            return memo[(i,n)]
+        return dp(0,0)
+                
+           
+        
