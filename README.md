@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0494-target-sum) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0518-coin-change-ii) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0036-valid-sudoku) |
 | [0064-minimum-path-sum](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0064-minimum-path-sum) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -150,10 +153,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0139-word-break) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Trie
 |  |
 | ------- |
@@ -162,4 +167,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0494-target-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Graph Theory
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Topological Sort
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
