@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0525-contiguous-array) |
+| [0695-max-area-of-island](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [0746-min-cost-climbing-stairs](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Hash Table
 |  |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0695-max-area-of-island](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0695-max-area-of-island) |
 ## Binary Search
 |  |
 | ------- |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0695-max-area-of-island](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0695-max-area-of-island) |
 ## Trie
 |  |
 | ------- |
@@ -180,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0695-max-area-of-island](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0695-max-area-of-island) |
 ## Graph Theory
 |  |
 | ------- |
