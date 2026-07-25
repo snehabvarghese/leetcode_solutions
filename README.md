@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0994-rotting-oranges](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0994-rotting-oranges) |
+| [1765-map-of-highest-peak](https://github.com/snehabvarghese/leetcode_solutions/tree/master/1765-map-of-highest-peak) |
 ## Hash Table
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0994-rotting-oranges) |
+| [1765-map-of-highest-peak](https://github.com/snehabvarghese/leetcode_solutions/tree/master/1765-map-of-highest-peak) |
 ## Binary Search
 |  |
 | ------- |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0994-rotting-oranges) |
+| [1765-map-of-highest-peak](https://github.com/snehabvarghese/leetcode_solutions/tree/master/1765-map-of-highest-peak) |
 ## Trie
 |  |
 | ------- |
