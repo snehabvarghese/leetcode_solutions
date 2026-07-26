@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0994-rotting-oranges](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/snehabvarghese/leetcode_solutions/tree/master/1020-number-of-enclaves) |
 | [1765-map-of-highest-peak](https://github.com/snehabvarghese/leetcode_solutions/tree/master/1765-map-of-highest-peak) |
 ## Hash Table
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/snehabvarghese/leetcode_solutions/tree/master/1020-number-of-enclaves) |
 ## Matrix
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/snehabvarghese/leetcode_solutions/tree/master/1020-number-of-enclaves) |
 | [1765-map-of-highest-peak](https://github.com/snehabvarghese/leetcode_solutions/tree/master/1765-map-of-highest-peak) |
 ## Binary Search
 |  |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/snehabvarghese/leetcode_solutions/tree/master/1020-number-of-enclaves) |
 | [1765-map-of-highest-peak](https://github.com/snehabvarghese/leetcode_solutions/tree/master/1765-map-of-highest-peak) |
 ## Trie
 |  |
@@ -207,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/snehabvarghese/leetcode_solutions/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
