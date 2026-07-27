@@ -18,10 +18,10 @@ class Solution(object):
             value=q.popleft()
             topo.append(value)
             for nei in adj[value]:
-                if indegree[nei]!=0:
-                    indegree[nei]-=1
-                    if indegree[nei]==0:
-                        q.append(nei)
+                
+                indegree[nei]-=1
+                if indegree[nei]==0:
+                    q.append(nei)
             
         if len(topo)==numCourses:
             return True
