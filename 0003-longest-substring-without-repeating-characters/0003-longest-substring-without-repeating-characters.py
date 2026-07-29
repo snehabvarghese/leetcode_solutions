@@ -3,43 +3,15 @@ class Solution(object):
         """
         :type s: str
         :rtype: int
-        """  
-
-        mp={}
-        st=0
-        e=0
-        substr=""
-        for i in range(len(s)):
-            if s[i] in mp and st<mp[s[i]]+1:
-                st=mp[s[i]]+1
-                
-            else:
-                e=max(e,i-st+1)
-                
-                
-            mp[s[i]]=i
+        """
+        seen=set()
+        left=0
+        res=0
+        for right in range(len(s)):
+            while s[right] in seen:
+                seen.remove(s[left])
+                left+=1
             
-        return e
-
-                
-                
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        
-        
-        
-        
- 
+            seen.add(s[right])
+            res=max(res,right-left+1)
+        return res
