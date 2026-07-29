@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0076-minimum-window-substring) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0065-valid-number) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 ## Memoization
 |  |
