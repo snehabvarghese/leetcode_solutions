@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0322-coin-change) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0567-permutation-in-string) |
 ## Memoization
@@ -245,4 +248,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
