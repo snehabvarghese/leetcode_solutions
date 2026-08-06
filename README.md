@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0695-max-area-of-island) |
+| [0704-binary-search](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0704-binary-search](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0704-binary-search) |
 ## Math
 |  |
 | ------- |
