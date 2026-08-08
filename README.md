@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0875-koko-eating-bananas](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/snehabvarghese/leetcode_solutions/tree/master/1020-number-of-enclaves) |
 | [1765-map-of-highest-peak](https://github.com/snehabvarghese/leetcode_solutions/tree/master/1765-map-of-highest-peak) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0875-koko-eating-bananas) |
 ## Math
 |  |
 | ------- |
