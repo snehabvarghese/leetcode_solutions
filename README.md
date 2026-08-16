@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0542-01-matrix) |
+| [0646-maximum-length-of-pair-chain](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0695-max-area-of-island](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0733-flood-fill) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0646-maximum-length-of-pair-chain](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0646-maximum-length-of-pair-chain) |
 ## Two Pointers
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0542-01-matrix) |
+| [0646-maximum-length-of-pair-chain](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/snehabvarghese/leetcode_solutions/tree/master/1143-longest-common-subsequence) |
@@ -285,4 +288,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0020-valid-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0646-maximum-length-of-pair-chain) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
