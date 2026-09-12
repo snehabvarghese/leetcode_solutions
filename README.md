@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/snehabvarghese/leetcode_solutions/tree/master/1143-longest-common-subsequence) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/snehabvarghese/leetcode_solutions/tree/master/1513-number-of-substrings-with-only-1s) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/snehabvarghese/leetcode_solutions/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 ## Sorting
 |  |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0070-climbing-stairs) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/snehabvarghese/leetcode_solutions/tree/master/1513-number-of-substrings-with-only-1s) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/snehabvarghese/leetcode_solutions/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 ## Combinatorics
 |  |
