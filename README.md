@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0525-contiguous-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0139-word-break) |
+| [0242-valid-anagram](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0647-palindromic-substrings) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0646-maximum-length-of-pair-chain](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0646-maximum-length-of-pair-chain) |
 ## Two Pointers
