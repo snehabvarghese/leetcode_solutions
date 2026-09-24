@@ -1,17 +1,28 @@
 class Solution:
-    def rob(self, nums: List[int]) -> int:
-        n=len(nums)
-        if n==1:
-            return nums[0]
-        def roblinear(nums):
-            n=len(nums)
-            if n==1:
+    def rob(self, nums: list[int]) -> int:
+        def maximumsubsq(nums):
+            dp={}
+            def solve(idx):
+                if idx in dp:
+                    return dp[idx]
+                if idx==0:
+                    return nums[idx]
+                if idx<0:
+                    return 0
+                pick=nums[idx]+solve(idx-2)
+                not_pick=solve(idx-1)
+                dp[idx]=max(pick,not_pick)
+                return dp[idx]
+            return solve(len(nums)-1)
+        def robber(nums):
+            temp1=[]
+            temp2=[]
+            if len(nums)==1:
                 return nums[0]
-            dp=[0]*n
-            dp[0]=nums[0]
-            dp[1]=max(nums[1],nums[0])
-            for i in range(2,n):
-                dp[i]=max(dp[i-1],nums[i]+dp[i-2])
-            return dp[-1]
-        return max(roblinear(nums[:-1]),roblinear(nums[1:]))
-        
+            for i in range(len(nums)):
+                if i!=0:
+                    temp1.append(nums[i])
+                if i!=len(nums)-1:
+                    temp2.append(nums[i])
+            return max(maximumsubsq(temp1),maximumsubsq(temp2))
+        return robber(nums)
