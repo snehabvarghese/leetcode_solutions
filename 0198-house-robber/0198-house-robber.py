@@ -1,15 +1,11 @@
 class Solution:
     def rob(self, nums: list[int]) -> int:
-        dp={}
-        def solve(idx):
-            if idx in dp:
-                return dp[idx]
-            if idx==0:
-                return nums[idx]
-            if idx<0:
-                return 0
-            pick=nums[idx]+solve(idx-2)
-            not_pick=0+solve(idx-1)
-            dp[idx]= max(pick,not_pick)
-            return dp[idx]
-        return solve(len(nums)-1)
+        dp=[0]*len(nums)
+        dp[0]=nums[0]
+        for i in range(1,len(nums)):
+            pick=nums[i]
+            if i>1:
+                pick+=dp[i-2]
+            not_pick=dp[i-1]
+            dp[i]=max(pick,not_pick)
+        return dp[-1]
