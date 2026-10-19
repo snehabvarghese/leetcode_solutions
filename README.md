@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/snehabvarghese/leetcode_solutions/tree/master/1020-number-of-enclaves) |
 | [1765-map-of-highest-peak](https://github.com/snehabvarghese/leetcode_solutions/tree/master/1765-map-of-highest-peak) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/snehabvarghese/leetcode_solutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Hash Table
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/snehabvarghese/leetcode_solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/snehabvarghese/leetcode_solutions/tree/master/1143-longest-common-subsequence) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/snehabvarghese/leetcode_solutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Stack
 |  |
 | ------- |
